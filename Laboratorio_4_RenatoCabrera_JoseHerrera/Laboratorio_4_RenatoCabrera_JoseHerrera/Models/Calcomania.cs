@@ -7,7 +7,7 @@ namespace Laboratorio_4_RenatoCabrera_JoseHerrera.Models
 {
     public class Calcomania
     {
-        string pais { get; set; }
+        string nombre { get; set; }
         int numero { get; set; }      
     }
-}
+}   
